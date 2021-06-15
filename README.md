@@ -1,6 +1,6 @@
-# example2
+# ListTileTelefone
 
-A new Flutter project.
+Nosso primeiro projeto, um ListTile feito na mão e sendo utilizado como cartão de contato! 
 
 ## Getting Started
 
